@@ -29,7 +29,13 @@ This project automates EC2 instance start and stop operations using AWS Lambda a
 
 5. Run automation
 
-   <img width="1153" height="640" alt="image" src="https://github.com/user-attachments/assets/c1b3e314-eea2-43f8-b410-ff4122be8a90" />
+ <img width="1007" height="567" alt="image" src="https://github.com/user-attachments/assets/91fba71c-231a-462d-8e52-6a50893ab72f" />
+
+ #I have faced a session error and have extened the session timeout with 30Seconds.
+
+ <img width="1915" height="847" alt="image" src="https://github.com/user-attachments/assets/9cda0b54-9590-423e-8f76-244212bc6638" />
+
+
 
 
 
