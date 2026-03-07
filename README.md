@@ -1,4 +1,4 @@
-{
+
 
 # AWS Lambda EC2 Automation
 
@@ -20,4 +20,4 @@ This project automates EC2 instance start and stop operations using AWS Lambda a
 3. Create Lambda function
 4. Run automation
 
-}
+
